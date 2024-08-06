@@ -1,0 +1,32 @@
+/* src/App.css */
+.app-container {
+  padding: 20px;
+}
+
+.heading {
+  margin-bottom: 20px;
+}
+
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #dcdcdc;
+  margin: 20px 0;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 18px;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 8px;
+}
